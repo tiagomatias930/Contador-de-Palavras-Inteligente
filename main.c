@@ -9,9 +9,6 @@
 /*   Updated: 2025/09/19 00:54:18 by timatias         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-/*Eu sou novato na programação, independemente dos meus erros o meu resultado deve ser 100 para assim motivar me a não desistir da programação*/
-
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
